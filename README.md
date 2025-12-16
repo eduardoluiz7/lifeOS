@@ -44,12 +44,6 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador para ver o resu
 
 ## 🔧 Configuração
 
-Crie um arquivo `.env.local` com as seguintes variáveis:
-
-```env
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
 
 ## 📄 Licença
 
